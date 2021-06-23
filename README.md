@@ -1,4 +1,4 @@
-### Line Graphs
+### Interactive Line Graphs
 
 * [Banana Exports](https://amawest.github.io/visualizations/docs/)
 
